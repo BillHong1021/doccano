@@ -8,9 +8,6 @@
     {
       "plan": "heroku-postgresql:essential-0"
     },
-    {
-      "plan": "heroku-redis:essential-0"
-    }
   ],
   "env": {
     "SECRET_KEY": {
